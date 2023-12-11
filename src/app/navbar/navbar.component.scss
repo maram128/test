@@ -1,0 +1,25 @@
+
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.bar{
+    flex: 1 1 auto;
+}
+.mat-toolbar.mat-primary {
+    background-color: rgb(150, 143, 143);
+
+  }
+
+.submit{
+    margin-left: 500px;
+}
+.mat-grid-tile {
+    display: block;
+  }*
+  a{
+     cursor: pointer;
+  }
+  .button .mat-mdc-button-base {
+    margin: 8px 8px 8px 0;
+  }
